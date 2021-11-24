@@ -1,7 +1,7 @@
 ### Oii, eu sou o Lucca! 👋
 
 - 🔭 Estudo Desenvolvimento Web na Trybe
-- 🌱 Atualmente virando as noites com JavaScript
+- 🌱 Atualmente virando as noites com HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/luccarendall">
