@@ -1,7 +1,4 @@
-### Oii, eu sou o Lucca! 👋
-
-- 🔭 Estudo Desenvolvimento Web na Trybe
-- 🌱 Atualmente virando as noites com JavaScript
+### Oi, eu sou o Lucca! 👋
 
 <div align="center">
   <a href="https://github.com/luccarendall">
