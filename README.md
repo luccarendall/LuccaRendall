@@ -1,5 +1,3 @@
-### Oi, eu sou o Lucca! 👋
-
 <div align="center">
   <a href="https://github.com/luccarendall">
   <img height="125" src="https://github-readme-stats.vercel.app/api?username=luccarendall&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
