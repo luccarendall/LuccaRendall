@@ -41,6 +41,7 @@
   
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp;
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3204D9&height=120&section=footer"/>
