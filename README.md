@@ -35,6 +35,7 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=white&labelColor=0D1117)&nbsp;
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
