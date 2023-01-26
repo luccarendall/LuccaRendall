@@ -5,7 +5,7 @@
 
 Full-Stack focused in JavaScript | Software Developer 💻
 
-Lover of technology and coding :octocat:
+Lover of technology and coding. Check out my pinned projects! :octocat:
 
 ## About me 
 
