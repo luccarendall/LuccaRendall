@@ -1,4 +1,4 @@
-<img align="right" width="500" height="400" src="https://media0.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif?cid=6c09b952f9607847d26a0c71920c45cb8f53d6d4adf8ea23&rid=giphy.gif&ct=g">
+<img align="right" width="400" height="400" src="https://media0.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif?cid=6c09b952f9607847d26a0c71920c45cb8f53d6d4adf8ea23&rid=giphy.gif&ct=g">
 
 # Welcome!
 ## I'm Lucca! Let me present a little about myself :D
