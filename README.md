@@ -1,51 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+<img align="right" width="500" height="400" src="https://media0.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif?cid=6c09b952f9607847d26a0c71920c45cb8f53d6d4adf8ea23&rid=giphy.gif&ct=g">
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3204D9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucca+Leonardo+Rendall;Tenho+24+anos;Sou+de+Pernambuco/Brasil;Estudo+desenvolvimento+de+software+na+Trybe;É+um+prazer+ter+você+aqui!+:%29)](https://git.io/typing-svg) -->
+# Welcome!
+## I'm Lucca! Let me present a little about myself :D
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuccaRendall&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Rendall github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRendall&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
-</div>
+Full-Stack focused in JavaScript | Software Developer 💻
 
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=luccarendall&theme=gotham&hide_border=true&area=true) -->
+Lover of technology and coding :octocat:
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/lucca-rendall/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.instagram.com/luccarendall/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
+## About me 
 
-### Main skills:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/LuccaRendall)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/in/lucca-rendall/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581986339926&text=Hello!)](https://api.whatsapp.com/send?phone=5581986339926&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccarendall2@gmail.com)](mailto:luccarendall2@gmail.com)
 
 
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=white&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=Docker&logoColor=white&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp;
-
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+- Thanks for visiting. 
+- Enjoy it!!
