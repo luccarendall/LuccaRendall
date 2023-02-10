@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=120&section=header"/> 
 
 <div align="center">
-    <h1>Hey, whats up?!   I am Lucca, be my guest! ☺️ </h1>
+    <h1>Opa, eu sou o Lucca, tudo certinho?</h1>
 </div>
 
 <div align="center">
-    <h2> Contact me 👇 </h2>
+    <h2> Onde me encontrar 👇 </h2>
 
 <a href="https://www.linkedin.com/in/lucca-rendall/" target="_blank">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"
@@ -22,7 +22,7 @@
 </div>
   
 <div align="center">
-  <h2> Techs and Tools </h2>
+  <h2> Tecnologias e ferramentas </h2>
  
   <p align="center">
   <a href="https://skillicons.dev">
@@ -35,6 +35,11 @@
     <img src="https://streak-stats.demolab.com?user=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=000000&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF" width=45% alt="Status de sequência de Lucca">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarendall&layout=compact&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&card_width=400&custom_title=Linguagens%20mais%20usadas%20por%20Lucca" alt="Top Linguagens de Lucca" >
 </div>
-  
-  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=120&section=footer"/> 
+    
+<div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=120&section=footer"/> 
+</div>
+    
+<span>
+    <h2>Confira abaixo meus projetos pinados 👇</h2>
+</span>
