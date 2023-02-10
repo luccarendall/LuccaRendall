@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/> 
 
 <div align="center">
     <h1>Opa, eu sou o Lucca, tudo certinho?</h1>
@@ -31,13 +31,13 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=FF0000&title_color=ff6961&text_color=FFFFFF&show_icons=true&show_icons=true&count_private=true&hide_border=true" width=40.9% alt="Contribuições de Lucca">
+    <img src="https://github-readme-stats.vercel.app/api?username=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&show_icons=true&show_icons=true&count_private=true&hide_border=true" width=40.9% alt="Contribuições de Lucca">
     <img src="https://streak-stats.demolab.com?user=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=000000&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF" width=45% alt="Status de sequência de Lucca">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarendall&layout=compact&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&card_width=400&custom_title=Linguagens%20mais%20usadas%20por%20Lucca" alt="Top Linguagens de Lucca" >
 </div>
     
 <div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=120&section=footer"/> 
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/> 
 </div>
     
 <span>
