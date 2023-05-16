@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-    <h2> Onde me encontrar 👇 </h2>
-
 <a href="https://www.linkedin.com/in/lucca-rendall/" target="_blank">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"
 </a>
