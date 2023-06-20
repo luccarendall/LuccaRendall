@@ -1,7 +1,10 @@
+
+<a href="https://pbs.twimg.com/media/DxuNVnxWsAA4fUT.jpg">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91ffc8&height=120&section=header"/> 
+</a> 
 
 <div align="center">
-    <h1>Opa, eu sou o Lucca, tudo certinho?</h1>
+    <h1>Oi, eu sou o Lucca, tudo certinho?</h1>
 </div>
 
 <div align="center">
