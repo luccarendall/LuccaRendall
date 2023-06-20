@@ -1,8 +1,4 @@
 
-<a href="https://pbs.twimg.com/media/DxuNVnxWsAA4fUT.jpg">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91ffc8&height=120&section=header"/> 
-</a> 
-
 <div align="center">
     <h1>Oi, eu sou o Lucca, tudo certinho?</h1>
 </div>
@@ -32,7 +28,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=91ffc8&title_color=91ffc8&text_color=91ffc8&show_icons=true&show_icons=true&count_private=true&hide_border=true" width=40.9% alt="contribuicoes">
+    <img src="https://github-readme-stats.vercel.app/api?username=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=91ffc8&title_color=91ffc8&text_color=91ffc8&show_icons=true&show_icons=true&hide_border=true&count_private=false" width=40.9% alt="contribuicoes">
     <img src="https://streak-stats.demolab.com?user=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=000000&fire=91ffc8&ring=91ffc8&currStreakLabel=FFFFFF" width=45% alt="sequencia-de-commits">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarendall&layout=compact&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&card_width=400&custom_title=Linguagens%20mais%20usadas%20por%20Lucca" alt="linguagens-mais-usadas" >
 </div>
@@ -40,9 +36,9 @@
 
    Confira abaixo meus principais projetos 👇
 
-   
+<!--   
 <div>
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91ffc8&height=120&section=footer"/> 
 </div>
-<!--     -->
+-->
 
