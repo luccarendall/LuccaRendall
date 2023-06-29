@@ -17,7 +17,6 @@ Meu nome é Lucca Leonardo Rendall. Sou desenvolvedor web e tenho mais de 40 pro
     <img src="https://skillicons.dev/icons?i=bash,github,git,html,css,bootstrap,tailwind,react,js,ts,mysql,mongodb,heroku,py,express,nodejs,sequelize,docker,jest,postman&perline=10" />
   </a>
 </p>
-<br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=91ffc8&title_color=986DFF&text_color=986DFF&show_icons=true&show_icons=true&hide_border=false&count_private=true" width=40.9% alt="contribuicoes">
