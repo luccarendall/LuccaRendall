@@ -15,7 +15,7 @@ Meu nome é Lucca Leonardo Rendall. Sou desenvolvedor web e tenho mais de 40 pro
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,github,git,html,css,bootstrap,tailwind,react,js,ts,mysql,mongodb,heroku,py,express,nodejs,sequelize,docker,jest,postman&perline=10" style="width: 200em;" />
+    <img src="https://skillicons.dev/icons?i=bash,github,git,html,css,bootstrap,tailwind,react,js,ts,mysql,mongodb,heroku,py,express,nodejs,sequelize,docker,jest,postman&perline=10" style="width: 100em;" />
   </a>
 </p>
 <br />
