@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-luccarendall2@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccarendall2@gmail.com)](mailto:luccarendall2@gmail.com)
 
 <samp> 
-Meu nome é Lucca Leonardo Rendall. Sou desenvolvedor web e tenho mais de 40 projetos desenvolvidos e publicados. Estou em busca de novas oportunidades em que possa contribuir, com interesse em um ambiente dinâmico, inclusivo e focado em resultados, que me permita continuar aprendendo e evoluindo através do trabalho conjunto
+Meu nome é Lucca Leonardo Rendall. Sou um desenvolvedor web com mais de 30 projetos concluídos. Estou em busca de novas oportunidades onde possa contribuir, com um interesse por ambientes de trabalho dinâmicos, inclusivos e focados em resultados. Valorizo a oportunidade de continuar aprendendo e evoluindo através do trabalho em equipe.
 </samp>
 
 </div>
