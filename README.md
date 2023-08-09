@@ -27,4 +27,4 @@ Meu nome é Lucca Leonardo Rendall. Sou um desenvolvedor web com mais de 30 proj
 <br />
 <p align="center"><img src="https://komarev.com/ghpvc/?username=LuccaRendall&style=flat-square&color=986DFF"></p>
 
-<h2  align="center">💻 Confira meus projetos ⬇️ </h2>
+<h2  align="center">💻 Confira alguns projetos ⬇️ </h2>
