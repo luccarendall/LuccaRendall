@@ -1,6 +1,6 @@
 <div align="center"> 
   <samp>
-    <h1>Boas vindas ao meu GitHub</h1>
+    <h1>Boas vindas ao meu Github</h1>
     <h3>Sinta-se em casa enquanto explora, há coisas úteis e interessantes esperando por você</h3>
   </samp>
 </div>
