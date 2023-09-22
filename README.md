@@ -1,7 +1,7 @@
 <div align="center"> 
   <samp>
     <h1>Boas vindas ao meu Github</h1>
-    <h3>Sinta-se em casa enquanto explora, há coisas úteis e interessantes esperando por você</h3>
+    <h3>Sinta-se em casa, há coisas úteis e interessantes esperando por você</h3>
   </samp>
 </div>
 
@@ -9,7 +9,7 @@
 
 ### 👨🏽‍💻 Quem sou eu 
 <samp>
-Olá, sou o Lucca. Minha jornada começou na biologia, porém minha paixão por criar coisas e resolver problemas me direcionou a programação. Minha missão é clara: transformar complexidades em soluções. Busco sempre criar ferramentas digitais que resolvam desafios e gerem benefícios reais. Guiado por colaboração, disciplina e constante busca por melhorias, procuro converter idéias em soluções práticas e impactantes. Estou ansioso para colaborar, explorar e testemunhar como essa jornada culminará em conquistas notáveis no mundo do desenvolvimento de software.
+Olá, sou o Lucca. Minha jornada começou na biologia, porém minha paixão por criar coisas e resolver problemas me direcionou a programação. Minha missão é clara: transformar complexidades em soluções. Busco sempre criar ferramentas digitais que resolvam desafios e gerem benefícios reais. Guiado por colaboração, disciplina e constante busca por melhorias, procuro converter idéias em soluções práticas e impactantes. Estou ansioso para colaborar, explorar e testemunhar como essa jornada culminará em conquistas notáveis no mundo do desenvolvimento de software
 </samp>
 </div>
   
