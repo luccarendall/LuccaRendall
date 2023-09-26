@@ -47,7 +47,7 @@ Olá, sou o Lucca. Minha jornada começou na biologia, porém minha paixão por 
 <br />
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=91ffc8&show_icons=true&show_icons=true&hide_border=false&count_private=true" width=40.9% alt="contribuicoes">
-    <img src="https://streak-stats.demolab.com?user=luccarendall&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=000000&currStreakLabel=FFFFFF&count_private=true"" width=45% alt="sequencia-de-commits">
+    <img src="https://streak-stats.demolab.com?user=luccarendall&theme=dark&border_radius=5&background=000000&currStreakLabel=FFFFFF&count_private=true"" width=45% alt="sequencia-de-commits">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarendall&layout=compact&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&count_private=true&card_width=400&custom_title=Ferramentas%20mais%20utilizadas" alt="linguagens-mais-usadas">
 </div>
 <br />
