@@ -6,8 +6,8 @@
 </div>
 
 <div align="justify">
-
-### 👨🏽‍💻 Quem sou eu 
+<br />
+  
 <samp>
 Olá, sou o Lucca. Minha jornada começou na biologia, porém minha paixão por criar coisas e resolver problemas me direcionou a programação. Minha missão é clara: transformar complexidades em soluções. Busco sempre criar ferramentas digitais que resolvam desafios e gerem benefícios reais. Guiado por colaboração, disciplina e constante busca por melhorias, procuro converter idéias em soluções práticas e impactantes. Estou ansioso para colaborar, explorar e testemunhar como essa jornada culminará em conquistas notáveis no mundo do desenvolvimento de software
 </samp>
