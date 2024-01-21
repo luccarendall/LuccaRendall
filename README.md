@@ -9,7 +9,7 @@
 <br/>
   
 <samp>
-Olá, sou o Lucca. Busco sempre criar ferramentas digitais que resolvam desafios e gerem benefícios reais. Guiado por colaboração, disciplina e constante busca por melhorias, procuro converter idéias em soluções práticas e impactantes. Estou ansioso para colaborar, explorar e testemunhar como essa jornada culminará em conquistas notáveis no mundo do desenvolvimento de software
+Olá, sou o Lucca. Busco sempre criar ferramentas digitais que resolvam desafios e gerem benefícios reais. Guiado por colaboração, disciplina e constante busca por melhorias, procuro converter ideias em soluções práticas e impactantes. Estou ansioso para colaborar, explorar e testemunhar como essa jornada culminará em conquistas notáveis no mundo do desenvolvimento de software
 </samp>
 </div>
   
