@@ -1,19 +1,9 @@
-<div align="center"> 
-  <samp>
-    <h1>Boas vindas ao meu Github</h1>
-    <h3>Sinta-se em casa, há coisas úteis e interessantes esperando por você</h3>
-  </samp>
-</div>
-
 <div align="justify">
 <br/>
-  
-<samp>
-Olá, sou o Lucca. Busco sempre criar ferramentas digitais que resolvam desafios e gerem benefícios reais. Guiado por colaboração, disciplina e constante busca por melhorias, procuro converter ideias em soluções práticas e impactantes. Estou ansioso para colaborar, explorar e testemunhar como essa jornada culminará em conquistas notáveis no mundo do desenvolvimento de software
-</samp>
+
 </div>
   
-### 💬 Fale comigo 
+### 💬 Contato
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-rendall/)](https://www.linkedin.com/in/lucca-rendall/) 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5581986339926)](https://wa.me/5581986339926) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luccarendall2@gmail.com)](mailto:luccarendall2@gmail.com)
