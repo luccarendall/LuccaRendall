@@ -2,11 +2,6 @@
 <br/>
 
 </div>
-  
-### 💬 Contato
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-rendall/)](https://www.linkedin.com/in/lucca-rendall/) 
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5581986339926)](https://wa.me/5581986339926) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luccarendall2@gmail.com)](mailto:luccarendall2@gmail.com)
 
 ### 🛠️ Tecnologias e ferramentas
 <br />
